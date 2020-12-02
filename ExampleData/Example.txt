@@ -1,0 +1,7 @@
+﻿mov R1 -15  4
+mov R2  1   R5
+cnt R1  R2  R4
+cnt R4  R5  R1
+mov R3  R1  1
+mov R1  0   4
+cnt R3  R1  R1
